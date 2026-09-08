@@ -1,0 +1,27 @@
+p {
+    font-size: 30px;
+}
+
+.job {
+    font-size: 25px;
+}
+
+#mikan {
+    color: orange;
+    background-color: white;
+}
+
+#ringo {
+    color: red;
+    background-color: black;
+}
+
+#budo {
+    color: purple;
+    background-color: aqua;
+}
+
+#pain {
+    color: yellow;
+    background-color: greenyellow;
+}
