@@ -1,0 +1,16 @@
+body {
+    background: khaki;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    margin: 30px;
+}
+
+.konomi {
+    color: aqua;
+    border: 1px solid red;
+}
