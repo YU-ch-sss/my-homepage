@@ -1,6 +1,5 @@
 body {
-    background-color: khaki;
-    
+    background-color: khaki;   
 }
 
 h1 {
@@ -13,3 +12,6 @@ h2 {
     color: green;
 }
 
+a {
+    font-size: 30px;
+}
