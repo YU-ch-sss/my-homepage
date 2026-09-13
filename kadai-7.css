@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(168, 164, 164);
+    margin: 0;
+}
+
+header {
+    background-color: rgb(239, 176, 176);
+    text-align: center;
+    padding: 20px;
+    font-size: 25px;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+section {
+    width: 300px;
+    box-sizing: border-box;
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px;
+}
+
+h2 {
+    font-size: 25px;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+}
+
+.atama {
+    font-size: 26px;
+}
+
+footer {
+    text-align: center;
+}
